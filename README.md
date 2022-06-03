@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinitakeutii
+- 👋 Hi, I’m @Vinitakeutii - also @vinitakeutii on Instagram.
 - 👀 I'm interested in programming and software development.
 - 🌱 I’m currently learning Javascript and C#.
 - 💞️ I'm looking to collaborate on projects that will improve my learning and contribute to my portfolio in the future.
